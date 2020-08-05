@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/token-creator/static/css/main.1eadc8cf.chunk.css",
+    "main.js": "/token-creator/static/js/main.bc1afac7.chunk.js",
+    "main.js.map": "/token-creator/static/js/main.bc1afac7.chunk.js.map",
+    "runtime-main.js": "/token-creator/static/js/runtime-main.bf81d3f5.js",
+    "runtime-main.js.map": "/token-creator/static/js/runtime-main.bf81d3f5.js.map",
+    "static/css/2.4cd87f0b.chunk.css": "/token-creator/static/css/2.4cd87f0b.chunk.css",
+    "static/js/2.8369e72d.chunk.js": "/token-creator/static/js/2.8369e72d.chunk.js",
+    "static/js/2.8369e72d.chunk.js.map": "/token-creator/static/js/2.8369e72d.chunk.js.map",
+    "index.html": "/token-creator/index.html",
+    "precache-manifest.45e963439624874056d38fa2f8047416.js": "/token-creator/precache-manifest.45e963439624874056d38fa2f8047416.js",
+    "service-worker.js": "/token-creator/service-worker.js",
+    "static/css/2.4cd87f0b.chunk.css.map": "/token-creator/static/css/2.4cd87f0b.chunk.css.map",
+    "static/css/main.1eadc8cf.chunk.css.map": "/token-creator/static/css/main.1eadc8cf.chunk.css.map",
+    "static/media/App.css": "/token-creator/static/media/banner-bg.13edfe02.png",
+    "static/media/logo.png": "/token-creator/static/media/logo.7ba262cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf81d3f5.js",
+    "static/css/2.4cd87f0b.chunk.css",
+    "static/js/2.8369e72d.chunk.js",
+    "static/css/main.1eadc8cf.chunk.css",
+    "static/js/main.bc1afac7.chunk.js"
+  ]
+}
