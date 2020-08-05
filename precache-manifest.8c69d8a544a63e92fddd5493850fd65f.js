@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "78f7977f72318d270089a4f26c458eca",
+    "revision": "e85b9d9f083278b9b6fdb9e935ee3ac2",
     "url": "/token-creator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/token-creator/static/css/2.4cd87f0b.chunk.css"
   },
   {
-    "revision": "0063a1778a3f394e5c3f",
+    "revision": "1ccbba51120eadf90c91",
     "url": "/token-creator/static/css/main.1eadc8cf.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/token-creator/static/js/2.8369e72d.chunk.js"
   },
   {
-    "revision": "0063a1778a3f394e5c3f",
-    "url": "/token-creator/static/js/main.42cd8c7e.chunk.js"
+    "revision": "1ccbba51120eadf90c91",
+    "url": "/token-creator/static/js/main.31efae5e.chunk.js"
   },
   {
     "revision": "90e075181f4adfac5543",
